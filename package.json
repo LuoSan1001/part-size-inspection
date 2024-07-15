@@ -1,0 +1,14 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "quick-start",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "LuoSan",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^31.1.0"
+  }
+}
